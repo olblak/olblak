@@ -1,7 +1,7 @@
 ### Hi there, I am Olblak 👋
 
 #### Quickly about me
-- I'm a lead operation engineer for [CloudBees][cloudbees-website]
+<!-- - I'm a lead operation engineer for [CloudBees][cloudbees-website] -->
 - I'm currently hacking with [Updatecli][updatecli-website]
 
 #### Feel free to connect with me:
@@ -29,5 +29,5 @@ Here are some ideas to get you started:
 [website]: https://www.olblak.com/
 [twitter]: https://twitter.com/0lblak
 [linkedin]: https://linkedin.com/in/overnin
-[cloudbees-website]: https://www.cloudbees.com/
+<!--[cloudbees-website]: https://www.cloudbees.com/-->
 [updatecli-website]: https://www.updatecli.io

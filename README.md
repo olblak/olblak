@@ -2,7 +2,8 @@
 
 #### Quickly about me
 <!-- - I'm a lead operation engineer for [CloudBees][cloudbees-website] -->
-- I'm currently hacking with [Updatecli][updatecli-website]
+- I am an Engineering Manager for [Suse][suse-website] working on [Epinio][epinio-website] and [Kubewarden][kubewarden-website]
+- On the side, I'm hacking with [Updatecli][updatecli-website]
 
 #### Feel free to connect with me:
 
@@ -31,3 +32,6 @@ Here are some ideas to get you started:
 [linkedin]: https://linkedin.com/in/overnin
 <!--[cloudbees-website]: https://www.cloudbees.com/-->
 [updatecli-website]: https://www.updatecli.io
+[suse-website]: https://www.suse.com
+[epinio-website]: https://www.epinio.io
+[kubewarden-website]: https://www.kubewarden.io

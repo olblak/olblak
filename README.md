@@ -3,7 +3,11 @@
 #### Quickly about me
 <!-- - I'm a lead operation engineer for [CloudBees][cloudbees-website] -->
 - I am an Engineering Manager for [Suse][suse-website] working on [Epinio][epinio-website] and [Kubewarden][kubewarden-website]
-- On the side, I'm hacking with [Updatecli][updatecli-website]
+- On the side, I'm hacking with [Updatecli][updatecli-website] and few other stuff
+
+#### Stats 
+
+![Olivier's github stats](https://github-readme-stats.vercel.app/api?username=olblak&show_icons=true)
 
 #### Feel free to connect with me:
 

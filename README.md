@@ -14,6 +14,7 @@
 [<img align="left" alt="overnin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="0lblak | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="@olblak@fosstodon.org | Mastodon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mastodon.svg" />][Mastodon]
+[<img align="left" alt="@olblak:matrix.org | Matrix" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/matrix.svg" />][Matrix]
 
 
 <!--
@@ -36,6 +37,7 @@ Here are some ideas to get you started:
 [twitter]: https://twitter.com/0lblak
 [linkedin]: https://linkedin.com/in/overnin
 [mastodon]: https://fosstodon.org/@olblak
+[matrix]: https://matrix.to/#/@olblak:matrix.org
 <!--[cloudbees-website]: https://www.cloudbees.com/-->
 [updatecli-website]: https://www.updatecli.io
 [suse-website]: https://www.suse.com

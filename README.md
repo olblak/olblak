@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 [website]: https://www.olblak.com/
 [twitter]: https://twitter.com/0lblak
 [linkedin]: https://linkedin.com/in/overnin
+[mastodon]: https://fosstodon.org/@olblak
 <!--[cloudbees-website]: https://www.cloudbees.com/-->
 [updatecli-website]: https://www.updatecli.io
 [suse-website]: https://www.suse.com

@@ -2,8 +2,8 @@
 
 #### Quickly about me
 <!-- - I'm a lead operation engineer for [CloudBees][cloudbees-website] -->
-- I am an Engineering Manager for [Suse][suse-website] working on [Epinio][epinio-website] and [Kubewarden][kubewarden-website]
-- On the side, I'm hacking with [Updatecli][updatecli-website] and few other stuff
+- I am an Engineering Manager at [Suse][suse-website] working on [Epinio][epinio-website], [Rancher][rancher] and [Kubewarden][kubewarden-website]
+- On the side, I contribute to [Updatecli][updatecli-website], [Jenkins][jenkins], [FOSDEM][FOSDEM], plus a few other stuff
 
 #### Stats 
 
@@ -43,3 +43,6 @@ Here are some ideas to get you started:
 [suse-website]: https://www.suse.com
 [epinio-website]: https://www.epinio.io
 [kubewarden-website]: https://www.kubewarden.io
+[rancher]: https://www.rancher.com/
+[jenkins]: https://jenkins.io
+[FOSDEM]: https://fosdem.org

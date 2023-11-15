@@ -3,6 +3,7 @@
 #### Quickly about me
 <!-- - I'm a lead operation engineer for [CloudBees][cloudbees-website] -->
 - I am an Engineering Manager at [Suse][suse-website] working on [Epinio][epinio-website], [Rancher][rancher] and [Kubewarden][kubewarden-website]
+- CNCF Ambassador
 - On the side, I contribute to [Updatecli][updatecli-website], [Jenkins][jenkins], [FOSDEM][FOSDEM], plus a few other stuff
 
 #### Stats 

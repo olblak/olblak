@@ -2,9 +2,9 @@
 
 #### Quickly about me
 <!-- - I'm a lead operation engineer for [CloudBees][cloudbees-website] -->
-- I am an Engineering Manager at [Suse][suse-website] working on [Epinio][epinio-website], [Rancher][rancher] and [Kubewarden][kubewarden-website]
-- CNCF Ambassador
-- On the side, I contribute to [Updatecli][updatecli-website], [Jenkins][jenkins], [FOSDEM][FOSDEM], plus a few other stuff
+- I am an Engineering Manager at [Suse][suse-website] working on [Rancher Fleet][fleet-website], [Rancher][rancher] and [Kubewarden][kubewarden-website]
+- Creator of [Updatecli][updatecli-website]
+- On the side, I contribute to [Jenkins][jenkins], [FOSDEM][FOSDEM], plus a few other stuff
 
 #### Stats 
 
@@ -43,6 +43,7 @@ Here are some ideas to get you started:
 [updatecli-website]: https://www.updatecli.io
 [suse-website]: https://www.suse.com
 [epinio-website]: https://www.epinio.io
+[fleet-website]: https://fleet.rancher.io
 [kubewarden-website]: https://www.kubewarden.io
 [rancher]: https://www.rancher.com/
 [jenkins]: https://jenkins.io
